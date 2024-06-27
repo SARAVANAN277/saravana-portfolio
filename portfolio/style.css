@@ -1,0 +1,14 @@
+
+
+body{
+    
+  font-family: "Poppins", sans-serif;
+}
+.banner{
+    background: linear-gradient(#eeecec00,#05ecc500);
+    padding:250px;
+    
+    font-size:20px;
+}
+
+
